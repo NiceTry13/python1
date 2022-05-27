@@ -11,6 +11,8 @@ def print_hi(name):
     print("Он \"плохой\" человек")
     # Перенос строки
     print("Привет \n мир")
+    # Конкатенация
+    print("Привет, меня зовут " + name + "!")
     # Press Ctrl+F8 to toggle the breakpoint.
 
 

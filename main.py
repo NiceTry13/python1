@@ -2,7 +2,7 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
+age = 22
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
@@ -13,6 +13,7 @@ def print_hi(name):
     print("Привет \n мир")
     # Конкатенация
     print("Привет, меня зовут " + name + "!")
+    print("Мне " + str(age) + "года")
     # Press Ctrl+F8 to toggle the breakpoint.
 
 

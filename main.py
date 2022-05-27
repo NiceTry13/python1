@@ -9,6 +9,8 @@ def print_hi(name):
     print(f'Hi, {name}')
     # Пример с экранированием
     print("Он \"плохой\" человек")
+    # Перенос строки
+    print("Привет \n мир")
     # Press Ctrl+F8 to toggle the breakpoint.
 
 
